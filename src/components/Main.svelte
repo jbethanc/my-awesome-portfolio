@@ -18,11 +18,11 @@
 	<section id="introPage" class="grid grid-cols-1 lg:grid-cols-2 gap-10 py-8 sm:py-14">
 		<div class="flex flex-col lg:justify-center text-center lg:text-left gap-6 md:gap-8 lg:gap-10">
 			<h2 class="font-semibold text-4xl sm:text-5xl md:text-6xl">
-				Hi! I'm <span class="poppins text-violet-400">Jonathan</span> Bethancourt
-				<br /> Senior Software QA <span class="poppins text-violet-400">Engineer</span>
+				Hi! I'm <span class="poppins text-violet-400">Jonathan </span>Bethancourt
+				<br />Senior Software QA <span class="poppins text-violet-400">Engineer</span>
 			</h2>
 			<p class="text-base sm:text-lg md:text-xl">
-				My <span class="text-violet-400">favorite tech</span> includes JS, SvelteKit, Tailwind (other....)!
+				My <span class="text-violet-400">favorite tech </span> includes JS, SvelteKit, Tailwind (other....)!
 			</p>
 			<a
 				href="https://www.linkedin.com/in/jbethancourt/"
@@ -59,23 +59,21 @@
 		<div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10">
 			<Step step={steps[0]}>
 				<p>
-					SmolJames Store is a merchandizing store with <strong class="text-violet-400"
-						>Next.js, Commerce.js, Stripe, &amp; Express.js!</strong
-					>
+					SmolJames Store is a merchandizing store with
+					<strong class="text-violet-400"> Next.js, Commerce.js, Stripe, &amp; Express.js! </strong>
 				</p>
 			</Step>
 			<Step step={steps[1]}>
 				<p>
-					Ultimate Todos is a fullstack todo checklist application <strong class="text-violet-400"
-						>Next.js, Commerce.js, Stripe, &amp; Express.js!</strong
-					> CRUD application for keeping track of personalized To-Dos w/ login and cross-device persistence
+					Ultimate Todos is a fullstack todo checklist application
+					<strong class="text-violet-400"> Next.js, Commerce.js, Stripe, &amp; Express.js! </strong>
+					CRUD application for keeping track of personalized To-Dos w/ login and cross-device persistence
 				</p>
 			</Step>
 			<Step step={steps[2]}>
 				<p>
-					Pokedex is a <strong class="text-violet-400"
-						>Next.js, Commerce.js, Stripe, &amp; Express.js!</strong
-					>
+					Pokedex is a
+					<strong class="text-violet-400"> Next.js, Commerce.js, Stripe, &amp; Express.js! </strong>
 				</p>
 			</Step>
 		</div>
@@ -130,8 +128,9 @@
 					<tr class="border-b border-solid border-slate-200">
 						<td
 							class="border-r border-solid border-white pl-4 pr-8 py-4 font-semibold text-sm whitespace-nowrap"
-							>Dedication</td
 						>
+							Dedication
+						</td>
 						<td><i class="fa-solid fa-check text-green-500" /></td>
 						<td><i class="fa-solid fa-xmark text-slate-500" /></td>
 						<td><i class="fa-solid fa-xmark text-slate-500" /></td>
@@ -140,8 +139,9 @@
 					<tr class="border-b border-solid border-slate-200">
 						<td
 							class="border-r border-solid border-white pl-4 pr-8 py-4 font-semibold text-sm whitespace-nowrap"
-							>Critical Thinking</td
 						>
+							Critical Thinking
+						</td>
 						<td><i class="fa-solid fa-xmark text-slate-500" /></td>
 						<td><i class="fa-solid fa-check text-green-500" /></td>
 						<td><i class="fa-solid fa-xmark text-slate-500" /></td>
