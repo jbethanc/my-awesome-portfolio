@@ -1,7 +1,7 @@
 {
 	"name": "my-awesome-portfolio",
 	"version": "0.0.1",
-	"private": true,
+	"private": false,
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
@@ -11,7 +11,7 @@
 		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
 		"format": "prettier --plugin-search-dir . --write .",
-		"deploy": "npx gh-pages -d dist"
+		"deploy": "npx gh-pages -d src"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.28.1",
