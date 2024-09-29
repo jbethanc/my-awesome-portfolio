@@ -13,7 +13,7 @@
 	<h1 class="font-medium">
 		<b class="font-bold poppins ps-3">Jonathan Bethancourt</b>
 	</h1>
-	<div class="sm:flex items-center gap-4 hidden">
+	<div class="sm:flex items-center gap-4 hidden p-1">
 		{#each tabs as tab, index}
 			<a href={tab.link} class="duration-200 hover:text-violet-400">
 				<p>{tab.name}</p>

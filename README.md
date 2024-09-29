@@ -29,6 +29,6 @@ npm run build
 ```
 
 ## Run formatting
-```
+```bash
 npm run format
 ```

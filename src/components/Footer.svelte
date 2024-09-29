@@ -6,7 +6,7 @@
 		<p><b class="pr-2">Email</b> example@email.com</p>
 		<p>
 			<b class="pr-2">Github</b>
-			<a href="#" class="text-violet-400" target="_blank">
+			<a href="https://github.com/jbethanc" class="text-violet-400" target="_blank">
 				JBethanc<sup>
 					<span class="text-xs scale-75 pl-0.5">
 						<i class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]" />
@@ -16,7 +16,7 @@
 		</p>
 		<p>
 			<b class="pr-2">LinkedIn</b>
-			<a href="#" class="text-violet-400" target="_blank">
+			<a href="https://www.linkedin.com/in/jbethancourt/" class="text-violet-400" target="_blank">
 				Jonathan<sup>
 					<span class="text-xs scale-75 pl-0.5">
 						<i class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]" />
