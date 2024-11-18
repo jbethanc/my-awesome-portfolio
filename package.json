@@ -7,8 +7,8 @@
 		"build": "vite build",
 		"preview": "vite preview",
 		"test": "playwright test",
-		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
-		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
+		"check": "svelte-kit sync && svelte-check --tsconfig .svelte-kit/tsconfig.json",
+		"check:watch": "svelte-kit sync && svelte-check --tsconfig .svelte-kit/tsconfig.json --watch",
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
 		"format": "prettier --plugin-search-dir . --write .",
 		"deploy": "gh-pages -d build"
@@ -39,5 +39,5 @@
 	"dependencies": {
 		"node": "^22.9.0"
 	},
-	"homepage": "https://jbethanc.github.io/my-awesome-portfolio/"
+	"homepage": "https://jbethanc.github.io/"
 }
