@@ -38,5 +38,6 @@
 	"type": "module",
 	"dependencies": {
 		"node": "^22.9.0"
-	}
+	},
+	"homepage": "https://jbethanc.github.io/my-awesome-portfolio/"
 }
